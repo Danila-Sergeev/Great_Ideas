@@ -21,7 +21,6 @@ function App() {
 			});
 	}
 
-	console.log(activity);
 	return (
 		<div>
 			<main>
